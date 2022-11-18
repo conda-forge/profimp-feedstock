@@ -1,6 +1,6 @@
 {% set name = "profimp" %}
-{% set version = "0.0.3" %}
-{% set sha256 = "899579c0076c19c8532c00be624a2e7b8ebc27ff97bec28c8b3759623ec84518" %}
+{% set version = "0.1.0" %}
+{% set sha256 = "d18e0145e131092a5d467e3a04a9034064856dfd5e1860ed6354dd844c9e0d54" %}
 
 package:
   name: {{ name|lower }}
